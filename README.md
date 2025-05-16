@@ -15,6 +15,8 @@ Pandas: For data manipulation and transformation
 
 Power BI: For building dashboards and visualizations
 
+Jupyter Notebook – For step-by-step data exploration and documentation
+
 📊 Features
 Automated web scraping of T20 cricket match data
 
